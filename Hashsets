@@ -1,0 +1,9 @@
+hashset.add()
+hashset.contains()
+HashSet<Integer> = new HashSet<>();
+
+Iterator value = hash.iterator();
+	    while(value.hasNext())
+	    {
+	        if(head=tail=null)
+	        head.data = tail.data = value.next;
