@@ -1,2 +1,4 @@
 String s;
 Char[] arr= s.toCharArray();
+
+Char[] arr = s.split("[.]");
