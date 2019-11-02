@@ -1,4 +1,6 @@
 String s;
 Char[] arr= s.toCharArray();
-
 Char[] arr = s.split("[.]");
+double c1;
+String c = Double.toString(c1);
+int ans = Integer.parseInt(s);
